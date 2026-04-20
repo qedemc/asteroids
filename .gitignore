@@ -11,3 +11,6 @@ wheels/
 
 game_state.jsonl
 
+*.swp
+
+
